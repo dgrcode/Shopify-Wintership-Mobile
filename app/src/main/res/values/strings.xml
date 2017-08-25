@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shopify Wintership Mobile</string>
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_title">Main Reports</string>
+
+    <string name="loading">We\'re crunching your data</string>
+    <string name="report_user">Spent by Napoleon Batz:</string>
+    <string name="report_user_result">%.2f CAD</string>
+    <string name="report_item">Awesome Bronze Bags sold:</string>
+    <string name="report_item_result">%d</string>
+    <string name="report_item_detail">(fulfilled: %d)</string>
+</resources>
